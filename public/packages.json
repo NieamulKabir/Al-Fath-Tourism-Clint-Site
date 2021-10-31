@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Sylhet Premium Trip",
+    "Spot": "It is a 2 days 3 Nights Sylhet Premium Trip",
+    "visitting_Spot": "Lalakhal,Bholaganj Shada Pathor,Jaflong,Ratargul Swamp Forest,Ali Amjads Clock,Lakkatura Tea State,Sreepur Tea Garden",
+    "duration": "2 Day & 3 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 12,
+    "img": "https://i.ibb.co/wMw3q82/sylet.jpg",
+    "ammount": 5000
+  },
+  {
+    "id": 2,
+    "title": "Debotakhum Day Trip",
+    "Spot": "Debotakhum",
+    "visitting_Spot": "Debotakhum",
+    "duration": "1 Day & 1 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 24,
+    "img": "https://i.ibb.co/xMcndSy/debotakhum.jpg",
+    "ammount": 3200
+  },
+  {
+    "id": 3,
+    "title": "Lama-Alikadam Premium Package",
+    "Spot": "Alis Cave,Dim Pahar,Matamuhuri River,Maya Lake",
+    "visitting_Spot": " লামা বাজার , মাতামুহুরি নদী + বোট রাইড , শৈলকুঠি ইকো রিসোর্ট , আলীর গুহা ,ডিম পাহাড় মায়ালেক, থানচি - আলীকদম সড়ক( বাংলাদেশের সবচেয়ে উঁচু রাস্তা) ",
+    "duration": "2 Day & 3 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 20,
+    "img": "https://i.ibb.co/BzCTKms/alikodom.jpg",
+    "ammount": 5500
+  },
+  {
+    "id": 4,
+    "title": "Sajek Premium Couple Package",
+    "Spot": "Rui lui para,Konglak Pahar,Alutila Cave,Risang Waterfall",
+    "visitting_Spot": "সাজেক,রুইলুই পাড়া কংলাক পাড়া ও পাহাড় ,হ্যালিপেড ,স্টোন গার্ডেন,আলুটিলা গুহা,জেলা পরিষদ পার্ক,রিসাং ঝর্না ( সময় সাপেক্ষে)",
+    "duration": "2 Day & 3 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 2,
+    "img": "https://i.ibb.co/QjFgzBS/sajek-copul.jpg",
+    "ammount": 6000
+  },
+  {
+    "id": 5,
+    "title": "Jalalpur + Nikli + Mithamain Package",
+    "Spot": "Kotiadi,Mithamain,Nikli haor",
+    "visitting_Spot": "This is a 1-night staycation and Nikli and Mithamain tour Package.",
+    "duration": "2 Day & 1 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 12,
+    "img": "https://i.ibb.co/x7sfhXk/nilki.jpg",
+    "ammount": 4800
+  },
+  {
+    "id": 6,
+    "title": "Chandhanath Pahar",
+    "Spot": "Chandhanath Pahar",
+    "visitting_Spot": "Chandhanath Pahar",
+    "duration": "1 Day & 2 Night",
+    "Tour_Type": "Standard",
+    "Max_Group_Size": 12,
+    "img": "https://i.ibb.co/hYncVGF/image.jpg",
+    "ammount": 1900
+  }
+]
